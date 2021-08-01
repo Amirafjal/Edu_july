@@ -1,0 +1,300 @@
+body{
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+}
+header{
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+}
+.top-header{
+    height:80px;
+    width:100%;
+    background-color:rgb(213, 0, 0);
+}
+.logo{
+    float:left;
+    height:50px;
+    width:50px;
+    background-color:#fff;
+    border-radius:50%;
+    margin-top:14px;
+    margin-left:130px;
+    
+}
+.logo p{
+    color:rgb(213, 0, 0);
+    font-size:30px;
+    text-align:center;
+    margin-top:5px;
+    font-weight:bold;
+    font-family: sans-serif;
+}
+.login{
+  float:right;
+  
+  height:auto;
+  line-height:80px;
+  margin-right:7%;
+  
+}
+.login a{
+    color:#fff;
+    font-size:25px;
+    text-decoration: none;
+  
+    margin:10px;
+}
+.login .login_2{
+    border:1px solid #fff;
+    padding:5px;
+}
+.login .login_1:hover{
+border:1px solid #fff;
+color:#313131;
+padding:5px;
+}
+.login .login_2:hover{
+    color:#313131;
+}
+/* main body starts here */
+#para> p{
+    font-size:30px;
+    color:rgb(0, 0, 101);
+    font-weight: bold;
+    letter-spacing: .2px;
+    font-family: sans-serif;
+   margin-left:133px;
+}
+.main{
+    height:600px;
+    width:90%;
+    margin-left:5%;
+    
+}
+.main #filter{
+    height:560px;
+    float:left;
+    width:22%;
+    margin-left:5%;
+    box-shadow: 0px 3px 13px;
+}
+
+.main #content{
+    float:left;
+    height:600px;
+    width:60%;
+    
+    margin-left:50px;
+    
+}
+.main #filter #filter_1{
+    height:565px;
+
+  margin:5%;
+}
+.main #content #content_1{
+    height:250px;
+    box-shadow: 0px 3px 13px;
+
+}
+.main #content #content_2{
+    height:250px;
+    
+    margin-top:50px;
+    box-shadow: 0px 3px 13px;
+}
+/* two content in main content */
+
+/* first content */
+.main #content #content_1 #main_content_0{
+    height:145px;
+    width:94%;
+    
+    margin-left:3%;
+    
+}
+.main #content #content_1 #content_1_1{
+    float:left;
+    height:115px;
+    width:20%;
+    margin-top:2%;
+    border-radius:25%;
+}
+.main #content #content_1 #content_1_2{
+    float:left;
+    height:115px;
+    width:60%;
+    margin-top:2%;
+    margin-left:5%;
+    
+}
+
+/* second content */
+
+.main #content #content_1 #main_content_00{
+    height:100px;
+    width:94%;
+    
+    margin-left:3%;
+    
+}
+.main #content #content_1 #content_1_1_1{
+    
+    height:45px;
+    width:100%;
+    
+    
+}
+.main #content #content_1 #content_1_2_2{
+    
+    height:45px;
+    width:100%;
+    
+    
+   
+}
+
+/* para content edit here*/
+.main #content #content_1 #content_1_2 #p1{
+ font-size:20px;
+ font-weight: bold;
+ font-family: sans-serif;
+ color:rgb(0, 0, 101);
+ line-height:20px;
+}
+.main #content #content_1 #content_1_2 #p2{
+    font-size:14px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color:rgb(0, 0, 101);
+    line-height: 1px;
+}
+.main #content #content_1 #content_1_2 #p3{
+    font-size:12px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color:gray;
+    line-height: 10px;
+ }
+
+
+
+ /* ends */
+
+ /* start */
+
+ /* two content in main content */
+
+/* first content */
+.main #content #content_2 #main_content_0{
+    height:145px;
+    width:94%;
+    
+    margin-left:3%;
+    
+}
+.main #content #content_2 #content_1_1{
+    float:left;
+    height:115px;
+    width:20%;
+    margin-top:2%;
+    border-radius:25%;
+}
+.main #content #content_2 #content_1_2{
+    float:left;
+    height:115px;
+    width:60%;
+    margin-top:2%;
+    margin-left:5%;
+    
+}
+
+/* second content */
+
+.main #content #content_2 #main_content_00{
+    height:100px;
+    width:94%;
+    
+    margin-left:3%;
+    
+}
+.main #content #content_2 #content_1_1_1{
+    
+    height:45px;
+    width:100%;
+    
+    
+}
+.main #content #content_2 #content_1_2_2{
+    
+    height:45px;
+    width:100%;
+    
+    
+   
+}
+
+/* para content edit here*/
+.main #content #content_2 #content_1_2 #p1{
+ font-size:20px;
+ font-weight: bold;
+ font-family: sans-serif;
+ color:rgb(0, 0, 101);
+ line-height:20px;
+}
+.main #content #content_2 #content_1_2 #p2{
+    font-size:14px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color:rgb(0, 0, 101);
+    line-height: 1px;
+}
+.main #content #content_2 #content_1_2 #p3{
+    font-size:12px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color:gray;
+    line-height: 10px;
+ }
+
+ /* Filter all property here starts */
+ .main #filter #filter_1 #p1{
+    font-size:23px;
+    line-height:15px;
+    color:rgb(0, 0, 101);
+    font-weight: bold;
+    font-family: sans-serif;
+ }
+ .main #filter #filter_1 #p2{
+     font-size:20px;
+     color:rgb(0, 0, 101);
+     line-height:1px;
+     font-family: sans-serif;
+}
+ .main #filter #filter_1 #searchbox{
+     background-color:aquamarine;
+     height:40px;
+ }
+ .main #filter #filter_1 #searchbox> select{
+    width:100%;
+    height:40px;
+    font-size:20px;
+    color:gray;
+}
+.main #filter #filter_1 #checkbox{
+    font-size: 18px;
+    color:gray;
+    font-family: sans-serif;
+}
+.main #filter #filter_1 #radio{
+    font-size: 18px;
+    color:gray;
+    font-family: sans-serif;
+}
+.main #filter #filter_1 #sort{
+    font-size: 18px;
+    color:gray;
+    font-family: sans-serif;
+}

@@ -1,0 +1,161 @@
+body{
+    margin:auto;
+}
+#top-header{
+    height:500px;
+    width:100%;
+    
+    
+}
+#head{
+    height:200px;
+    width:90%;
+    margin-left: 5%;
+    margin-right:5%;
+    float:left;
+    
+}
+
+#logo{
+    height:150px;
+    width:150px;
+    background-color:turquoise;
+    border-radius:50%;
+   float:left;
+   margin-left:45%;
+   margin-top: -6%;
+   background-color:#fff;
+   position:relative;
+   
+}
+#logo> p{
+    font-weight: 600;
+    font-size: 70px;
+    font-family: arial;
+    margin-left: 33%;
+    margin-top: 19%;
+    color:red;
+}
+#log{
+    float:left;
+   margin-top:-12%;
+    margin-left:16%;
+    
+}
+#log> a{
+    border:1px solid #fff;
+    text-decoration:none;
+    font-size: 30px;
+    color:#fff;
+   
+    
+}
+#log> a:hover{
+    border:1px solid #313131;
+    text-decoration:none;
+    font-size: 30px;
+    color:#fff;
+   
+    
+}
+#search{
+    float:left;
+    height:10%;
+    width:60%;
+    margin-left: 30%;
+    margin-top: -1%;
+}
+#search_1{
+
+    float:left;
+    height:100%;
+    width:30%;
+    
+}
+#search_2{
+    float:left;
+    height:100%;
+    width:50%;
+   
+}
+#search_1> select{
+    width:90%;
+    height:100%;
+    color:gray;
+    font-size: 23px;
+}
+#search_2> select{
+    width:90%;
+   height:100%;
+   color:gray;
+   font-size: 23px;
+}
+#search_text{
+    float:left;
+    margin-top: 5%;
+    margin-left:-25%;
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight:600;
+   
+}
+#search_text span{
+    color:rgb(119, 180, 49);
+}
+#search_text span1{
+    color:rgb(0, 0, 0);
+}
+
+#content_container{
+    height:600px;
+    width: 80%;
+    margin-left:10%;
+    
+}
+#content_container_1{
+    height:33%;
+    width:28%;
+    display:inline-block;
+    margin-top:2%;
+    margin-left: 5%;
+    box-shadow: 0px 3px 13px;
+    
+}
+#quick{
+    font-size:25px;
+    color:rgb(15, 15, 88);
+    font-weight:bold;
+    font-family:georgia;
+    margin-left: 14%;
+}
+#quick_1{
+    font-size:18px;
+    color:gray;
+    font-family:georgia;
+    line-height:0.01;
+    margin-left: 14%;
+}
+#image{
+    height:100%;
+    width:50%;
+    float:left;
+
+}
+#text{
+    height:92%;
+    width:46%;
+    float:left;
+    margin:2%;
+}
+#text_1{
+    margin-top: 23%;
+    text-align:center;
+    font-weight:bold;
+    font-size: 21px;
+    color:rgb(15, 15, 88);
+}
+#text_2{
+ text-align:center;
+ line-height: 1;
+ color:gray;
+}
